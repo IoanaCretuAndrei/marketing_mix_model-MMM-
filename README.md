@@ -88,8 +88,8 @@ The Bayesian framework allows robust estimation and uncertainty quantification.
 
 The model decomposed total sales into:
 
-- **Base sales: 62.7%**
-- **Media-driven sales: 37.3%**
+- **Base sales: 50.3%**
+- **Media-driven sales: 40.7%**
 
 This indicates that marketing activities contribute significantly to overall performance.
 
@@ -101,10 +101,10 @@ Return on Ad Spend (ROAS) was estimated for each channel:
 
 | Channel | ROAS |
 |--------|------|
-| YouTube | 1.09 |
-| Facebook | 0.90 |
+| YouTube | 1.16 |
+| Facebook | 1.03 |
 | Search | 0.28 |
-| TV | 0.06 |
+| TV | 0.07 |
 
 YouTube was identified as the most efficient channel, while TV showed the lowest efficiency.
 
