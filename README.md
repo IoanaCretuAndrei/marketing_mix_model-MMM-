@@ -60,9 +60,7 @@ Saturation = 1 - \exp(-\lambda \cdot Adstock)
 | Facebook | 0.4 | 0.00036 |
 | Search | 0.2 | 9.31e-5 |
 
-> **Suggested plots:**  
-> - Spend vs Adstock (`tv` vs `tv_adstock`)  
-> - Adstock vs Saturation (`tv_adstock` vs `tv_sat`)
+
 
 ---
 
@@ -73,9 +71,6 @@ Saturation = 1 - \exp(-\lambda \cdot Adstock)
 - Features: `*_sat` (adstock + saturation)
 - Outputs: posterior distributions of channel coefficients (`betas`) and weekly contributions.
 
-> **Suggested plots:**  
-> - Trace plots of betas  
-> - Posterior distributions of coefficients
 
 ---
 
